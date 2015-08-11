@@ -20,6 +20,8 @@ links for [@micahstubbs](https://twitter.com/micahstubbs)' talk for the August 2
 
 [Choropleth](http://bl.ocks.org/mbostock/4060606)
 
+[Mapsense Zoomable Choropleth with Vector Tiles](http://bl.ocks.org/mapsense-examples/00ee03b071e938ce6cc0)
+
 [Satellite Projection](http://bl.ocks.org/mbostock/3790444)
 
 [World Tour](http://bl.ocks.org/mbostock/4183330)
