@@ -32,6 +32,12 @@ links for [@micahstubbs](https://twitter.com/micahstubbs)' talk for the August 2
 
 [Modularity Mini-Map](http://bl.ocks.org/emeeks/125db75c9b55ddcbdeb5)
 
+[Adjacency Matrix](http://bost.ocks.org/mike/miserables/)
+
+[GenomeD3 Circular Plot](http://bl.ocks.org/lairdm/6a770c94c6793eee660d)
+
+[GenomeD3 Linear Plot](http://bl.ocks.org/lairdm/c6c235dbfa6e6ee61565)
+
 [Maze Tree](http://bl.ocks.org/mbostock/061b3929ba0f3964d335#index.html)
 
 [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
