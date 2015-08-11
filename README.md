@@ -28,6 +28,8 @@ links for [@micahstubbs](https://twitter.com/micahstubbs)' talk for the August 2
 
 [Houston Parks and Recreation Network Vis](http://bl.ocks.org/micahstubbs/raw/b7182dddb4a1b79d1ac7/)
 
+[Modularity Mini-Map](http://bl.ocks.org/emeeks/125db75c9b55ddcbdeb5)
+
 [Maze Tree](http://bl.ocks.org/mbostock/061b3929ba0f3964d335#index.html)
 
 [Urbanization in East Asia](http://www.visualcinnamon.com/portfolio/urbanization)
