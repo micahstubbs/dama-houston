@@ -1,6 +1,6 @@
 #intro to d3js
 
-links for [@micahstubbs](https://twitter.com/micahstubbs)' talk for the August 2015 meeting of the [Houston Data Management Association](http://www.dama.org/chapters/dama-houston)
+links for [@micahstubbs](https://twitter.com/micahstubbs)' talk at the August 2015 meeting of the [Houston Data Management Association](http://www.dama.org/chapters/dama-houston)
 
 [http://d3js.org/](http://d3js.org/)
 
