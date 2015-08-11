@@ -32,9 +32,9 @@ links for [@micahstubbs](https://twitter.com/micahstubbs)' talk for the August 2
 
 [Maze Tree](http://bl.ocks.org/mbostock/061b3929ba0f3964d335#index.html)
 
-[Urbanization in East Asia](http://www.visualcinnamon.com/portfolio/urbanization)
-
 [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
+[Urbanization in East Asia](http://www.visualcinnamon.com/portfolio/urbanization)
 
 [Tutorial - Introduction to D3.js](http://curran.github.io/screencasts/introToD3/examples/viewer/#/) with [@currankelleher](https://twitter.com/currankelleher)
 
