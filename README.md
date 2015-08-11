@@ -6,6 +6,8 @@ links for [@micahstubbs](https://twitter.com/micahstubbs)' talk at the August 20
 
 [http://vis.stanford.edu/papers/d3](http://vis.stanford.edu/papers/d3)
 
+[Three Little Circles](http://bost.ocks.org/mike/circles/)
+
 [Histogram](http://bl.ocks.org/mbostock/3048450)
 
 [Stacked Bar Chart](http://bl.ocks.org/mbostock/3886208)
